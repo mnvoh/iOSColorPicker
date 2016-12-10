@@ -4,7 +4,7 @@
 ColorPicker is a simple, custom UIView that can be used to prompt the user to select a color. It also offers a zoom-like preview while the user's finger is down and moving.
 
 ###Preview
-![iOS Swift Color Picker Preview](./preview.gif)
+![iOS Swift Color Picker Preview](./ColorPicker.gif)
 
 ### Usage
 1. Add the `ColorPicker` class to your project.
